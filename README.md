@@ -1,2 +1,2 @@
 # GitTest
-Created for git update test.
+Git update test.
